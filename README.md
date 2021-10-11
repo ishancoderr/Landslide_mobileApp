@@ -19,6 +19,7 @@ checked whether those factors met the relevant condition to cause a landslide by
 
 - Project Demo Youtube link -https://www.youtube.com/watch?v=VsrYYLDj-0g
 
+![image](https://user-images.githubusercontent.com/31079429/136735134-79c03eb3-0a79-4e7a-b864-ecd1c6b982fc.png)
 
 
 A new Flutter project.
