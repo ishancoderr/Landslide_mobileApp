@@ -20,11 +20,6 @@ checked whether those factors met the relevant condition to cause a landslide by
 - Project Demo Youtube link -https://www.youtube.com/watch?v=VsrYYLDj-0g
 ## Futher Implementations
 
--If the user is in a risky area give directions to a safer location after creating 
-a GIS network map of low risk areas & connect them with our mobile application.
--Display data regarding past hazard scenarios which enables users to be aware of the seriousness of the situation.
--Enable the users to report a hazard through our application which can be used in future implementations.
--Develop the app as we can send a notification to the user if there is a considerable risk that we see firsthand.
 ![image](https://user-images.githubusercontent.com/31079429/136735441-e47f5b05-1aa2-424e-b3dc-a129379c5f2e.png)
 
 
