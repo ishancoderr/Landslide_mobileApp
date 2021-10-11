@@ -19,6 +19,11 @@ checked whether those factors met the relevant condition to cause a landslide by
 
 - Project Demo Youtube link -https://www.youtube.com/watch?v=VsrYYLDj-0g
 
+##  Project documentation
+
+-  Document  link  -https://docs.google.com/document/d/1iiA6EBtpbOAkPGICPz0neo6plkMJl7Af3Qb5ZpO4SlU/edit#heading=h.la5jp5tnimjw
+-  Presentation  -  https://docs.google.com/presentation/d/1p7laqGKtohwV77_JhiJ4p-DK6AG6T3cf/edit#slide=id.p40  
+
 
 ## Futher Implementations
 
