@@ -1,6 +1,6 @@
 # landslide_ditector
 
-Here we focused on two main sectors. ![image](https://user-images.githubusercontent.com/31079429/136734749-ba3f4501-2e15-4665-8407-b9dc4726fef6.png)
+[image](https://user-images.githubusercontent.com/31079429/136734749-ba3f4501-2e15-4665-8407-b9dc4726fef6.png)
 
 
 ## Conditions of the land.
