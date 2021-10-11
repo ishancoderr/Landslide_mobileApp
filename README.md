@@ -1,4 +1,9 @@
 # landslide_ditector
+- Geojson File-https://github.com/ishancoderr/Landslide_-Identifier
+- Machine Learning Model (Tflite File)-https://github.com/ishancoderr/Rainfall_predictor
+
+
+
 
 A new Flutter project.
 
