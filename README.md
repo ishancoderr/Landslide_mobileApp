@@ -20,8 +20,7 @@ checked whether those factors met the relevant condition to cause a landslide by
 - Project Demo Youtube link -https://www.youtube.com/watch?v=VsrYYLDj-0g
 
 
-![image](https://user-images.githubusercontent.com/31079429/136735206-9100b29f-d377-4207-8b32-88ad8bd9acc5.png)
-![image](https://user-images.githubusercontent.com/31079429/136735215-b28a5ba2-e712-420a-9951-fcda40cb321f.png)
+
 
 
 
