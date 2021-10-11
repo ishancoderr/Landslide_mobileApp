@@ -1,7 +1,7 @@
 # landslide_ditector
 - Geojson File-https://github.com/ishancoderr/Landslide_-Identifier
-- Machine Learning Model (Tflite File)-https://github.com/ishancoderr/Rainfall_predictor
--Project Demo Youtube link -https://www.youtube.com/watch?v=VsrYYLDj-0g
+- Machine Learning Model (Tflite File)- https://github.com/ishancoderr/Rainfall_predictor
+- Project Demo Youtube link -https://www.youtube.com/watch?v=VsrYYLDj-0g
 
 
 
